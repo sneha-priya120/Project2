@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("Hello, git in c");
+printf("Temporary line testing restore command");
 return 0;
 }
